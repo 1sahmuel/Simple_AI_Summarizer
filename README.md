@@ -58,13 +58,14 @@ streamlit run groq_model.py
 ## **📂 Project Structure**
 
 ```bash
-ai-text-summarizer/
-│
+ Simple_AI_Summarizer/
+├── license
+├── readme.md           # Project documentation
 ├── groq_model.py       # Main Streamlit app for groq model
-├──  Ollama model.py    # Main Streamlit app for ollama model  
+├── ollama model.py    # Main Streamlit app for ollama model  
 ├── .env                # Contains the Groq API key (not tracked by Git)
 ├── requirements.txt    # Python dependencies
-└── README.md           # Project documentation
+        
 ```
 ##  🔮 Future Improvements
 
