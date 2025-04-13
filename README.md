@@ -62,7 +62,7 @@ streamlit run groq_model.py
 ├── license
 ├── readme.md           # Project documentation
 ├── groq_model.py       # Main Streamlit app for groq model
-├── ollama model.py    # Main Streamlit app for ollama model  
+├── ollama model.py     # Main Streamlit app for ollama model  
 ├── .env                # Contains the Groq API key (not tracked by Git)
 ├── requirements.txt    # Python dependencies
         
