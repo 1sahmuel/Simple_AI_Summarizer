@@ -13,7 +13,8 @@ A powerful, lightweight AI summarization app that allows you to instantly summar
 
 ## 🌐 Streamlit Interface
 
-![image](https://github.com/user-attachments/assets/1bfba163-8b9c-4167-917e-0e38c2e55287)
+![image](https://github.com/user-attachments/assets/0f3eb66b-4db0-4986-825d-95ec8ced47f6)
+
   
 
 
